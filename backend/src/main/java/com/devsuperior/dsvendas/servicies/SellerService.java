@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.servicie;
+package com.devsuperior.dsvendas.servicies;
 
 import com.devsuperior.dsvendas.dto.SellerDTO;
 import com.devsuperior.dsvendas.entities.Seller;
